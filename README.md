@@ -1,2 +1,2 @@
-# JS-Dau-17-A
+# JS-Day-17-A
 Incrementing Counter
